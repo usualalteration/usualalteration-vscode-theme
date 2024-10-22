@@ -1,0 +1,21 @@
+{
+  "name": "usualalteration",
+  "displayName": "usualalteration",
+  "description": "Orange and blue shades.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "usualalteration",
+        "uiTheme": "vs-dark",
+        "path": "./themes/usualalteration-color-theme.json"
+      }
+    ]
+  }
+}
